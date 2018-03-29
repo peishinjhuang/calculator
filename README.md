@@ -19,7 +19,9 @@
 <img src="https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/3.JPG" width = "35%" height = "35%" alt="圖3" align=center />
 
 
-也可刪除尾數，若把當前的數字刪除，程式會計算先前已輸入的算式。
+也可刪除尾數，若把當前的數字全部刪除，程式會計算先前已輸入的算式。
+
+下圖為刪除數值2.4的範例
 
 <img src="https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/4.JPG" width = "35%" height = "35%" alt="圖4" align=center />
 
