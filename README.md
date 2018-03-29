@@ -8,7 +8,7 @@
 *   刪除尾數
 *   顯示已輸入之算式
 
-<img src="https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/1.JPG" width = "20%" height = "20%" alt="圖1" align=center />
+<img src="https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/1.JPG" width = "35%" height = "35%" alt="圖1" align=center />
 ![image](https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/1.JPG)
 
 ![image](https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/2.JPG)
