@@ -35,7 +35,7 @@
 
 <img src="https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/7.JPG" width = "35%" height = "35%" alt="圖7" align=center />
 
-此程式依順序作為計算，若先運算加/減，後運算乘/除，程式會先計算加/減。
+此程式依**輸入順序**作為計算，若先運算加/減，後運算乘/除，程式會先計算加/減。
 
 <img src="https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/8.JPG" width = "35%" height = "35%" alt="圖8" align=center />
 
