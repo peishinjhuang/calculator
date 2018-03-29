@@ -8,7 +8,7 @@
 *   刪除尾數
 *   顯示已輸入之算式
 
-![image](https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/1.JPG)
+![image](https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/1.JPG){:height="50%" width="50%"}
 
 ![image](https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/2.JPG)
 
@@ -21,4 +21,5 @@
 ![image](https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/4.JPG)
 
 將數字刪除後，可直接按等於按鈕，結果會顯示在文字框裡。
+
 ![image](https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/5.JPG)
