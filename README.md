@@ -28,3 +28,9 @@
 
 <img src="https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/5.JPG" width = "35%" height = "35%" alt="圖1" align=center />
 
+
+也可按C建，一次清除之前輸入的算式。
+
+<img src="https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/6.JPG" width = "35%" height = "35%" alt="圖1" align=center />
+
+<img src="https://github.com/peishinjhuang/calculator/blob/master/calculator_pic/7.JPG" width = "35%" height = "35%" alt="圖1" align=center />
